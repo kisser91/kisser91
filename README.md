@@ -3,11 +3,9 @@ I am an industrial designer from Buenos Aires and currently a computer engineeri
 I have studied fullstack development in the soyHenry bootcamp, now in my final day of it. <br/>
 Actually working in my final project, a restaurant app for all the chain management including digital menus for tables and being scalable to different food chains with magnagment tools for the client.<br/>
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=kisser91.kisser91)
 
 <br/>
-
 ---
 
 <details>
